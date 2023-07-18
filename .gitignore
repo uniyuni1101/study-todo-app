@@ -19,3 +19,15 @@
 
 # Go workspace file
 go.work
+
+
+# Node dependency directory
+node_modules/
+
+# next.js build output
+.next
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
